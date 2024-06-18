@@ -1,0 +1,8 @@
+name: PolygonRegion
+main: coffee.j4n.polygonregion.PolygonRegion
+version: PROTOTYPE1
+api-version: 1.16
+commands:
+  pregion:
+    description: Create a polygonal region
+    aliases: [ pr ]
