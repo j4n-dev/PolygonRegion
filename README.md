@@ -28,4 +28,4 @@ Players can add and remove points to modify the regions dynamically.
 
 ## License 🪪
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPLv3 License. See the [LICENSE](LICENSE) file for details.
